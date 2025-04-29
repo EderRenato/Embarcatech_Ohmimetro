@@ -1,5 +1,5 @@
 build
 .vscode
 pico_sdk_important.cmake
-diagram.json
-wokwi.toml
+diagram
+wokwi
